@@ -41,8 +41,5 @@
     { "date": "01/02/2013", "name": "Tom", "store": "A", "state": "FL", "spend": 750 },
     { "date": "01/02/2013", "name": "Bob", "store": "B", "state": "FL", "spend": 90 },
     { "date": "01/02/2013", "name": "Alice", "store": "A", "state": "NY", "spend": 6 }
-    {
-  "titre": "Mon projet",
-  "image": "datavisualisation/data/maurice.PNG"
-}
+ 
 ]
