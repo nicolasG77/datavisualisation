@@ -43,3 +43,12 @@
     { "date": "01/02/2013", "name": "Alice", "store": "A", "state": "NY", "spend": 6 }
  
 ]
+[
+
+    {
+  "titre": "Mon projet",
+  "image": "data/maurice.PNG"
+}
+
+
+]
